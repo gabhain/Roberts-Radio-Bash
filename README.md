@@ -24,7 +24,7 @@ A lightweight Bash script for controlling Roberts radios via the UNDOK FSAPI pro
 
 ### Flags
 
-- `-i, --ip <addr>`: IP address of the radio (default: `10.0.0.136` or `RADIO_IP` environment variable)
+- `-i, --ip <addr>`: IP address of the radio (default: `XX.XX.XX.XX` or `RADIO_IP` environment variable)
 - `-h, --help`: Show help message
 
 ### Commands

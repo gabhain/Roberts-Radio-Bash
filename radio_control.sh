@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-RADIO_IP="${RADIO_IP:-10.0.0.136}"
+RADIO_IP="${RADIO_IP:-XX.XX.XX.XX}"
 RADIO_PIN="1234"  # Default UNDOK pin. Change if you set a custom one.
 
 # Help function
@@ -12,7 +12,7 @@ Roberts Radio Control Script
 Usage: $(basename "$0") [flags] [command] [value]
 
 Flags:
-  -i, --ip <addr>   IP address of the radio (default: 10.0.0.136)
+  -i, --ip <addr>   IP address of the radio (default: XX.XX.XX.XX)
   -h, --help        Show this help message
 
 Commands:
