@@ -47,6 +47,22 @@ A lightweight Bash script for controlling Roberts radios via the UNDOK FSAPI pro
 - `pair`: Initiate Bluetooth pairing
 - `device`: Show device information
 
+## Supported Modes (Inputs)
+
+| ID | Mode |
+|----|------|
+| 0  | Internet Radio |
+| 1  | Tidal |
+| 2  | Deezer |
+| 3  | Amazon Music |
+| 4  | Spotify |
+| 5  | Local Music |
+| 6  | Music Player |
+| 7  | DAB |
+| 8  | FM Radio |
+| 9  | Bluetooth |
+| 10 | AUX |
+
 ## License
 
 MIT
